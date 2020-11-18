@@ -15,6 +15,8 @@
   Note Taker is a web application that uses backend node, express server and a json db file that acts as a database
   to allow for a user to input notes into the front end index and note html files displayed in a browser and the notes that are entered by the user are kept track of in the json db file and I deployed the application on Heroku.
 
+  ![note-taker-screenshot](https://user-images.githubusercontent.com/57837212/99556837-07556b00-2990-11eb-8ece-951d020b7800.PNG)
+
   ## Installation
   step 1 fork the repo https://github.com/scottpwells/note-taker-app
   step 2 Clone the repo to your local repo
